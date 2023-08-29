@@ -1,12 +1,10 @@
-
-
 :root {
   --primaryColor: #fff;
-  --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor1: #0d3b66;
+  --navColor2: #faf0ca;
+  --navColor3: #f4d35e;
+  --navColor4: #ee964b;
+  --navColor5: #f95738;
 }
 
 html {
@@ -16,12 +14,9 @@ html {
 body {
   margin: 0;
   background: #000;
-
 }
 
 /* --- Navigation Menu ------------------------------ */
-
-
 
 /* --- Menu Bars ------------------------------------ */
 
@@ -74,7 +69,7 @@ section {
 }
 
 section#home {
-  background-image: url("https://images.unsplash.com/photo-1581453904507-626ddb717f14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80");
+  background-image: url('https://images.unsplash.com/photo-1581453904507-626ddb717f14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80');
   background-size: cover;
   background-position: center center;
 }
